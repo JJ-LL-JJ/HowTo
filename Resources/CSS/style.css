@@ -3,7 +3,7 @@ body {
 }
 
 #bamboozled {
-    background: linear-gradient(#f0e912, #acc826, #79a825, #408823, #076b37, #036a5e, #076c88, #076fb0, #0372df, #075fc8, #0f44ad, #0e2d8f, #0d0d70, #320e6b, #661972, #98166e, #c81870, #cb1358, #d31a56, #d11631, #ca1914, #d74f13, #e08413, #e8b919);
+    background-image: url("../Images/gr.jpg");
 }
 
 h1 {
