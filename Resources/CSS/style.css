@@ -1,5 +1,9 @@
 body {
-    background: linear-gradient(#f0e912, #acc826, #79a825, #408823, #076b37, #036a5e, #076c88, #076fb0, #0372df, #075fc8, #0f44ad, #0e2d8f, #0d0d70, #320e6b, #661972, #98166e, #c81870, #cb1358, #d31a56, #d11631, #ca1914, #d74f13, #e08413, #e8b919)
+    background: linear-gradient(#f0e912, #acc826, #79a825, #408823, #076b37, #036a5e, #076c88, #076fb0, #0372df, #075fc8, #0f44ad, #0e2d8f, #0d0d70, #320e6b, #661972, #98166e, #c81870, #cb1358, #d31a56, #d11631, #ca1914, #d74f13, #e08413, #e8b919, #f0e912, #acc826, #79a825, #408823, #076b37, #036a5e, #076c88, #076fb0, #0372df, #075fc8, #0f44ad, #0e2d8f, #0d0d70, #320e6b, #661972, #98166e, #c81870, #cb1358, #d31a56, #d11631, #ca1914, #d74f13, #e08413, #e8b919);
+}
+
+#bamboozled {
+    background: linear-gradient(#f0e912, #acc826, #79a825, #408823, #076b37, #036a5e, #076c88, #076fb0, #0372df, #075fc8, #0f44ad, #0e2d8f, #0d0d70, #320e6b, #661972, #98166e, #c81870, #cb1358, #d31a56, #d11631, #ca1914, #d74f13, #e08413, #e8b919);
 }
 
 h1 {
@@ -9,14 +13,14 @@ h1 {
     padding: 20px 0px;
     text-align: center;
 }
-    
+
 h2 {
     font-size: 2rem;
     color: #845007;
     padding: 20px;
     text-align: center;
 }
-    
+
 h3 {
     font-size: 1.5rem;
     color: #fffb00d5;
@@ -28,7 +32,6 @@ nav {
     margin: auto;
     text-align: center;
 }
-
 
 a {
     background-color: #3a4660;
