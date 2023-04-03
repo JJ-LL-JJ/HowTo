@@ -3,9 +3,10 @@ body {
 }
 
 #bamboozled {
-    background-image: url("../Images/gr.jpg");
+    background-image: url("../Images/gr3.jpg");
+    background-position: center;
     background-repeat: no-repeat;
-    background-color: #d3d2d0;
+    background-color: #929086;
 }
 
 h1 {
